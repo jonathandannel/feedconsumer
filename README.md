@@ -16,9 +16,7 @@ You will also see any lint errors in the console.
 
 ### If I had more time, I would've
 
-- Made the page responsive
-- Paid more attention to styling
-- Implemented some nicer transitions
+- Implemented some nicer transitions and mobile responsiveness
 - Paid more attention to the data visualizations
 - Added some flair to the infinite scrolling
 - Came up with more elegant, less time-complex ways of dealing with the data
