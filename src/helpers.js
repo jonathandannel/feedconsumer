@@ -1,5 +1,5 @@
 export const queryProperties = () =>
-  fetch("https://interview.domio.io/properties").then(res => res.json());
+  fetch("https://mysteryurlsecret.com/properties").then(res => res.json());
 
 export const addDateToProperty = p => ({ ...p, dateTime: new Date() });
 
