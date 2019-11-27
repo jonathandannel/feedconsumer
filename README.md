@@ -12,7 +12,7 @@ You will also see any lint errors in the console.
 
 ### Screens
 
-In the repo, in the `screens` folder :)
+![Polling](https://github.com/jonathandannel/feedconsumer/blob/master/screens/polling.png?raw=true)
 
 ### If I had more time, I would've
 
